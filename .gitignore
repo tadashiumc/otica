@@ -1,0 +1,9 @@
+# Arquivos do Java
+*.class
+*.jar
+bin/
+target/
+
+# Pastas de configuração de IDE
+.idea/
+.vscode/
